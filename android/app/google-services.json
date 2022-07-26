@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "463094925743",
+    "project_id": "fabloplatforms-1",
+    "storage_bucket": "fabloplatforms-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463094925743:android:9daf62e1f59f765806c75a",
+        "android_client_info": {
+          "package_name": "com.example.fabiorebuild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463094925743-r6adjkfimckgj54tavd929jikn5m3krb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA-AePlDWuvYYfMysujh-I4SiVHHx9XLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463094925743-r6adjkfimckgj54tavd929jikn5m3krb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463094925743-tmbn4fs89fm5od49e65rgq6tktfano2a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fabloplatformsinternship"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
